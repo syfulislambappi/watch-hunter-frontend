@@ -7,7 +7,7 @@
 - `React Hook Form`
 - `Firebase`
   
-Application Live Link [Watch Hunter](https://khuda-lagse-101.web.app/).
+Application Live Link [Watch Hunter](https://watch-hunter.web.app/).
 
 ## Brief Overveiw of Application
 The Application is created with react. User can order their expected watch from here. To order from the site user must be logged in or have to create an account.
