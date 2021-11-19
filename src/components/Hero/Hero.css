@@ -1,0 +1,9 @@
+.hero-section {
+    background-image: url('https://cdn.shopify.com/s/files/1/0039/3740/2989/files/Slider--2_3ca1d7af-a201-4c0c-840c-337a9aa591df.jpg?v=1559368798');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
